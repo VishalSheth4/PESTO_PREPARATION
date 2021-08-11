@@ -1,0 +1,3 @@
+PHP is blocking I/o model while node.js is non-blocking i/o model.  
+So used in real time applications i.e. chat applications,
+
