@@ -1,3 +1,31 @@
+VIDEO - 1
+
 PHP is blocking I/o model while node.js is non-blocking i/o model.  
 So used in real time applications i.e. chat applications,
 
+Node --version
+npm --version
+
+VIDEO - 2
+
+// Run with the command node 
+//  to print
+console.log("Hello World")
+
+// variable type ---
+const a=10
+
+// run with file 
+cd desktop
+mkdir nodejs
+cd nodejs
+// package initialization manager -- dependency created
+npm init
+package name : nodejs
+description : my firs node js tutorial
+entry point : main.js
+test command :
+author : vishal
+
+// Create new file main.js in nodejs folder...
+console.log("Hello World")
